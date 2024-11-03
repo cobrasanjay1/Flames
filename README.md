@@ -17,4 +17,8 @@ Provides a simple and entertaining way to find compatibility between two names.
 
 ## Screenshots
 ![photo_1_2024-11-03_23-33-54](https://github.com/user-attachments/assets/6b238811-f33f-42f9-ad42-a19d3f9e1eeb)
+![photo_2_2024-11-03_23-33-54](https://github.com/user-attachments/assets/afb3da7e-46ff-4567-86e6-f40813822bc6)
+![photo_3_2024-11-03_23-33-54](https://github.com/user-attachments/assets/456ee6ba-dc74-4717-8348-3ea7d3d64eb6)
+
+
 
