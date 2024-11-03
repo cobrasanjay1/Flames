@@ -14,3 +14,7 @@ Key Features:
 Uses Python's collections.Counter to manage letter counts efficiently.
 Employs a looping algorithm to simulate the FLAMES elimination process.
 Provides a simple and entertaining way to find compatibility between two names.
+
+## Screenshots
+![photo_1_2024-11-03_23-33-54](https://github.com/user-attachments/assets/6b238811-f33f-42f9-ad42-a19d3f9e1eeb)
+
